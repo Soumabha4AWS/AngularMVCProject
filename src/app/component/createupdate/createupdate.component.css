@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #2F3035;
+    position: relative;
+    background-image: url(../../../assets/images/Background-Course6.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  
+h2 {
+  color: whitesmoke;
+}  
+
+
+.description {
+  color: aqua;
+}
+  

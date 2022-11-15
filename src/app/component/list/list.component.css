@@ -1,0 +1,27 @@
+.tablecontainer {
+  background-color: #2F3035;
+  position: relative;
+  background-image: url(../../../assets/images/Background-Course1.jpg);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: top;
+
+}
+
+
+h2 {
+  height: 118px;
+  text-align: center;
+}
+
+nav {
+  background-color: rgba(0, 0, 0, 0.728);
+  text-align: center;
+  margin-left: 9.5%; 
+  margin-right: 9.5%; 
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 80%;
+  border:1px solid white;
+}
+
